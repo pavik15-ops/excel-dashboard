@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 
-1. Hospital Emergency Room Dashboard – Enhancing Patient Flow & Care Efficiency
+1.Hospital Emergency Room Dashboard – Enhancing Patient Flow & Care Efficiency
 
 A dynamic , interactive data visulization tool built to explore hospital emergency room data 
 
