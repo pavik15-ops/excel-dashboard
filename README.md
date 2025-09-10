@@ -4,11 +4,11 @@
 
 A dynamic , interactive data visulization tool built to explore hospital emergency room data 
 
-2.📝Description:
+2.📝 Description:
 
 Hospital emergency room dashboard  provides real-time insights into patient flow, wait times, and satisfaction in the hospital emergency room. It exists to help hospital management optimize resource allocation, reduce waiting times, and improve patient satisfaction.
 
-3.🛠️Tech Stack:
+3.🛠️ Tech Stack:
 
 The dashboard was built using the following tools and technologies:
 
@@ -30,15 +30,20 @@ The dashboard was built using the following tools and technologies:
       
   ⚫ Walkthrough of Key Visuals:
       1.Patient Arrival Trends – Shows peak times when most patients visit.
+      
       2.Average Waiting Time KPI – Highlights how long patients wait before treatment.
+      
       3.Resource Utilization Chart – Tracks doctors/nurses on shift and their workload.
+      
       4.Critical vs. Non-Critical Cases – Breakdown of patient severity for prioritization.
       
   ⚫ Business Impact & Insights:
-      1.Improved resource planning by aligning staff shifts with patient inflow.
-      2.Identified peak hours requiring additional staff allocation.
-      3.Enhanced decision-making for hospital management through real-time monitoring.
+        1.Improved resource planning by aligning staff shifts with patient inflow.
+        
+        2.Identified peak hours requiring additional staff allocation.
+        
+        3.Enhanced decision-making for hospital management through real-time monitoring.
       
-5. 🖼️ Screenshot:
+5.🖼️ Screenshot:
     snapshoot of the dashboard :https://github.com/pavik15-ops/excel-dashboard/blob/main/excel%20snapshoot.png
     
