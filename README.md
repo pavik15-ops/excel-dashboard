@@ -29,6 +29,7 @@ The dashboard was built using the following tools and technologies:
       To provide a clear, real-time view of patient inflow, treatment progress, and staff utilization, enabling data-driven          decisions that reduce waiting times and improve hospital efficiency.
       
   ⚫ Walkthrough of Key Visuals:
+  
       1.Patient Arrival Trends – Shows peak times when most patients visit.
       
       2.Average Waiting Time KPI – Highlights how long patients wait before treatment.
@@ -38,6 +39,7 @@ The dashboard was built using the following tools and technologies:
       4.Critical vs. Non-Critical Cases – Breakdown of patient severity for prioritization.
       
   ⚫ Business Impact & Insights:
+  
         1.Improved resource planning by aligning staff shifts with patient inflow.
         
         2.Identified peak hours requiring additional staff allocation.
